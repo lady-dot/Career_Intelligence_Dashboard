@@ -1,8 +1,8 @@
 # Personal Learning Intelligence Dashboard
-**Tracking 250+ Hours of Technical Upskilling & Career Pivot Velocity**
+**Tracking 310+ Hours of Technical Upskilling & Career Pivot Velocity**
 
 ## 🎯 The Objective
-To transform a fragmented history of 47 professional certifications into a centralized Business Intelligence system. This project tracks "Learning Velocity," subject mastery, and ROI on educational platforms (IBM, Google, Microsoft).
+To transform a fragmented history of 55 professional certifications into a centralized Business Intelligence system. This project tracks "Learning Velocity," subject mastery, and ROI on educational platforms (IBM, Google, Microsoft).
 
 ## 🛠️ Tech Stack
 * **Data Source:** Excel (Self-curated dataset)
