@@ -17,5 +17,5 @@ To transform a fragmented history of 55 professional certifications into a centr
 * **Integrity:** Maintained a 100% Completion Rate across verified certifications.
 
 ## 📸 Dashboard Preview
-![Page 1 - Executive Summary](Screenshots/Career Intelligence-1.png)
-![Page 2 - Deep Dive Analysis](Screenshots/Career Intelligence-2.png)
+![Page 1 - Executive Summary](Screenshots/Career20%Intelligence-1.png)
+![Page 2 - Deep Dive Analysis](Screenshots/Career20%Intelligence-2.png)
